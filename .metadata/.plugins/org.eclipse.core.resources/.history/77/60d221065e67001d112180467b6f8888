@@ -16,6 +16,5 @@ int main() {
 		cin >> p0;
 	}
 	cout << "Eingegebener Punkt p0: " << p0 << endl;
-	cout << "Finished" << endl;
 	return 0;
 }
